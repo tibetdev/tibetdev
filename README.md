@@ -2,4 +2,4 @@
 
 ---
 
-> ## Visit :arrow_right [tibet.dev](https://tibet.dev 'Tibetan Developer')
+> ## Visit :arrow_right: [tibet.dev](https://tibet.dev 'Tibetan Developer')
